@@ -1,0 +1,69 @@
+
+address,a,p{
+    font-size: 2rem;
+    font-family: 'Baloo Paaji 2', sans-serif;
+}
+.homebg{
+    background-image: url(../img/home1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin: 0px auto 0px auto;
+    align-items: center;
+    text-align: center;
+}
+.hometext{
+    align-items: center;
+    padding-top: 25vh;
+}
+.hometext h1{
+    font-size: 6rem;
+    font-family: 'Berkshire Swash', cursive;
+    color: #0A81AB;
+}
+h1
+{
+    font-size: 3rem;
+    font-family: 'Baloo Paaji 2', cursive;
+}
+/**************************aboutpage*****************************/
+.aboutbg{
+    background-image:linear-gradient(#CA8A8B,rgba(82, 144, 168, 0.7)), url(../img/about.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 75vh;
+    
+}
+.aboutme{
+    padding: 10px;
+    color: #34656D;
+    
+
+}
+.detail{
+    padding: 20px;
+    color: black;
+}
+
+.exp{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.431),rgba(66, 6, 31, 0.349)),url(../img/exp.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.career{
+    background-image: url(../img/home.jpg);
+    position:center;
+    background-size: cover;
+}
+
+.footer{
+    background-color: #CA8A8B;
+}
+marquee{
+    font-size: 7rem;
+    color:#34656D;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+
